@@ -11,6 +11,4 @@ We can make the anti-aliasing quality of real-time rendering of the game approac
 part two ACAA image-filter is a image filter to change NOAA image all part to anti-aliasing image.
 
 
-sulin huang.
-
-email me:1413287676@qq.com
+Copyright © 2013 sulin huang  (1413287676@qq.com)
