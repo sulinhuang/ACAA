@@ -13,4 +13,28 @@ part two ACAA image-filter is a image filter to change NOAA image all part to an
 For most games, rendering the game to 100%-125% resolution NOAA image, using ACAA anti-aliasing processing program, and resampling it to 1920x1080 can obtain good anti-aliasing quality and performance, such as the target 1920x1080 picture, rendering it to 2560x1440 NOAA, using ACAA anti-aliasing and resampling it back to 1920x1080.This means that only 1.5xSSAA+ACAA can get good anti-aliasing game picture and performance.
 
 
-Copyright © 2023 sulin huang  (1413287676@qq.com)
+Copyright and License
+---------------------
+
+Copyright &copy; 2023 sulin huang (1413287676@qq.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software. As clarification, there is no
+requirement that the copyright notice and permission be included in binary
+distributions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
